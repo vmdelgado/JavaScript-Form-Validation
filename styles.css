@@ -1,0 +1,28 @@
+body {
+  background-color: rebeccapurple;
+}
+
+h1 {
+  text-align: center;
+  color: plum;
+  font-family: "Comic Sans MS";
+}
+
+label {
+  color: violet;
+  font-family: cursive;
+	
+}
+
+input {
+  color: purple;
+  background-color: plum;
+  font-family: cursive;
+}
+
+form {
+  text-align: center;
+  border: 2px solid violet;
+  padding: 15px;
+}
+
